@@ -20,8 +20,11 @@
     const param1=()=>{
         const name= "나나핑";
         const age = 3;
-        location.href="/req-param1?name="+name+"&age"+age;
+        location.href="/req-param1?name="+name+"&age="+age;
     }
+
+
+
 
 </script>
 </html>
